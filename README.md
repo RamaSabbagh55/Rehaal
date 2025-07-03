@@ -1,4 +1,4 @@
-# Rahhal
+# Rahal
 
 Who is Rahhal?
 
